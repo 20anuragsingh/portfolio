@@ -1,12 +1,12 @@
 import React from 'react';
-
+import logo from '../../public/images.png'
 const Hero = () => {
   return (
     <section className="hero-section">
       <div className="hero-container">
         <div className="hero-content">
           <h1 className="hero-title">
-            Hi, I'm <span className="hero-name">Anurag singh]</span>
+            Hi, I'm <span className="hero-name">Anurag singh</span>
           </h1>
           <h2 className="hero-subtitle">
             A Full-Stack Developer | Tech Enthusiast | Problem Solver
@@ -39,6 +39,7 @@ const Hero = () => {
         </div>
         <div className="hero-image">
           <div className="hero-image-placeholder">
+              <img src={logo} alt="Profile Picture" />
             <span>Your Photo</span>
           </div>
         </div>

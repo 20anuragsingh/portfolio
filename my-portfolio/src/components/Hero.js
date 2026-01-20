@@ -39,7 +39,10 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-image">
-          <img src={photo} alt="Anurag Singh" className="hero-photo" />
+          <div className="hero-image-placeholder">
+            <img src={photo} alt="Anurag's photo" className="hero-photo" />
+            <span>Your Photo</span>
+          </div>
         </div>
       </div>
       <div className="hero-scroll-indicator">

@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../../public/images.png'
+import logo from './images/images.png'
 const Hero = () => {
   return (
     <section className="hero-section">

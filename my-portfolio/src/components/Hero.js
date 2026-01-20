@@ -37,12 +37,6 @@ const Hero = () => {
             </button>
           </div>
         </div>
-        <div className="hero-image">
-          <div className="hero-image-placeholder">
-              {/* <img src={logo} alt="Profile Picture" /> */}
-            <span>Your Photo</span>
-          </div>
-        </div>
       </div>
       <div className="hero-scroll-indicator">
         <div className="scroll-mouse">

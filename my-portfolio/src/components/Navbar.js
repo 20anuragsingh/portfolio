@@ -29,6 +29,10 @@ const Navbar = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
   };
 
+  const handleDownload = () => {
+    window.open('https://drive.google.com/file/d/10f-UmbhGyfqIo6MnEiOxPEUN5NCudjQZ/view?usp=sharing', '_blank');
+  };
+
   return (
     <nav className={`navbar ${isScrolled ? 'navbar-scrolled' : ''}`}>
       <div className="navbar-container">
@@ -75,6 +79,15 @@ const Navbar = () => {
           >
             Download Resume
           </a>
+          <button
+            className="navbar-link resume-btn"
+            onClick={() => {
+              handleDownload();
+              setIsMobileMenuOpen(false);
+            }}
+          >
+            Download CV
+          </button>
         </div>
 
         <div className="navbar-toggle" onClick={toggleMobileMenu}>

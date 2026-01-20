@@ -1,4 +1,5 @@
 import React from 'react';
+import photo from './images/photo.jpeg'
 // import logo from './images/images.png'
 const Hero = () => {
   return (
@@ -36,6 +37,9 @@ const Hero = () => {
               Get In Touch
             </button>
           </div>
+        </div>
+        <div className="hero-image">
+          <img src={photo} alt="Anurag Singh" className="hero-photo" />
         </div>
       </div>
       <div className="hero-scroll-indicator">

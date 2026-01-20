@@ -71,14 +71,6 @@ const Navbar = () => {
           >
             Contact
           </a>
-          <a
-            href="/resume.pdf"
-            className="navbar-link resume-btn"
-            download="Your_Name_Resume.pdf"
-            onClick={() => setIsMobileMenuOpen(false)}
-          >
-            Download Resume
-          </a>
           <button
             className="navbar-link resume-btn"
             onClick={() => {

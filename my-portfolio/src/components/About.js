@@ -8,12 +8,10 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              Hi, I'm [Your Name], a passionate [Your Profession] with a love for creating
-              innovative solutions through code. I specialize in [Your Specializations] and
-              have experience working on [brief experience].
+               I am a Electrical and Computer Engineering student at ABES Engineering Collage, Ghaziabad, with strong foundations in Web development and DSA and hands-on experience in Backend in Node.js. I enjoy building scalable, user-focused applications using modern technologies.
             </p>
             <p>
-              When I'm not coding, you can find me [hobbies or interests]. I'm always
+              When I'm not coding, you can find me experimenting with digital photography, or exploring new places. I'm always
               eager to learn new technologies and tackle challenging problems.
             </p>
           </div>
@@ -40,14 +38,19 @@ const About = () => {
           <h3>Education</h3>
           <div className="education-list">
             <div className="education-item">
-              <h4>[Degree/Program Name]</h4>
-              <p className="institution">[Institution Name]</p>
-              <p className="year">[Year of Graduation]</p>
+              <h4>B.Tech</h4>
+              <p className="institution">ABES Engineering Collage</p>
+              <p className="year">2025-2029</p>
             </div>
             <div className="education-item">
-              <h4>[Previous Degree/Program]</h4>
-              <p className="institution">[Institution Name]</p>
-              <p className="year">[Year of Graduation]</p>
+              <h4>Senior Secondary Education (Class XII)</h4>
+              <p className="institution">SVM public school, Maniram Gorakhpur</p>
+              <p className="year">2024</p>
+            </div>
+            <div className="education-item">
+              <h4>Secondary Education (Class X)</h4>
+              <p className="institution">Guru gorakhnath vidyapeeth, Pipiganj, Gorakhpur</p>
+              <p className="year">2022</p>
             </div>
             {/* Add more education items as needed */}
           </div>
@@ -56,14 +59,14 @@ const About = () => {
           <h3>Certificates</h3>
           <div className="certificates-list">
             <div className="certificate-item">
-              <h4>[Certificate Name]</h4>
-              <p className="issuer">[Issuing Organization]</p>
-              <p className="date">[Date Obtained]</p>
+              <h4>Java skill up</h4>
+              <p className="issuer">GeeksforGeeks</p>
+              <p className="date">December 2025.</p>
             </div>
             <div className="certificate-item">
-              <h4>[Another Certificate]</h4>
-              <p className="issuer">[Issuing Organization]</p>
-              <p className="date">[Date Obtained]</p>
+              <h4>AI for Students: Build your own Generative model</h4>
+              <p className="issuer">NXT WAVE</p>
+              <p className="date">16 Nov 2025</p>
             </div>
             {/* Add more certificates as needed */}
           </div>

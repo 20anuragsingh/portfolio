@@ -12,29 +12,26 @@ const Contact = () => {
             <div className="contact-details">
               <div className="contact-item">
                 <h4>Email</h4>
-                <p>your.email@example.com</p>
+                <p>singh_anurag1@outlook.com</p>
               </div>
 
               <div className="contact-item">
                 <h4>Phone</h4>
-                <p>+1 (555) 123-4567</p>
+                <p>+91 638 7482 130</p>
               </div>
 
               <div className="contact-item">
                 <h4>Location</h4>
-                <p>Your City, Country</p>
+                <p>Amsar, Turkwaliya, Gorakhpur, Uttar pradesh, India</p>
               </div>
             </div>
 
             <div className="social-links">
-              <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://github.com/20anuragsingh" target="_blank" rel="noopener noreferrer" className="social-link">
                 GitHub
               </a>
-              <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://linkedin.com/in/singh-anurag1" target="_blank" rel="noopener noreferrer" className="social-link">
                 LinkedIn
-              </a>
-              <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer" className="social-link">
-                Twitter
               </a>
             </div>
           </div>

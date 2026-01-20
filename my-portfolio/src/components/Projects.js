@@ -3,23 +3,23 @@ import React from 'react';
 const Projects = () => {
   const webDevProjects = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce website built with React, Node.js, and MongoDB. Features include user authentication, product catalog, shopping cart, and payment integration.",
-      technologies: ["React", "Node.js", "MongoDB", "Express", "Stripe API"],
-      github: "https://github.com/yourusername/ecommerce-platform",
+      title: "Interactive UI with Zero JavaScript",
+      description: "🛠️ Key Features: Pure CSS Animations: Floating background elements to add depth and movement. Interactive States: Smooth transitions on input focus and button hovers. Modern Aesthetic: A clean, vibrant gradient design with centered UI. Zero Dependencies: No frameworks, no libraries, just pure code. Sometimes, the best way to level up your front-end skills is to strip away the abstractions and get back to the basics of the box model and keyframes. ",
+      technologies: ["HTML", "css"],
+      github: "https://github.com/20anuragsingh/login_page",
       live: "https://your-ecommerce-demo.com"
     },
     {
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
-      technologies: ["React", "Firebase", "Material-UI", "React DnD"],
-      github: "https://github.com/yourusername/task-manager",
+      title: "simple Tic Tac Toe game using HTML, CSS, and JavaScript",
+      description: "🔧 Tech Used: HTML for structure | CSS for styling | JavaScript for game logic 🕹️ Features I implemented: ✔ 3×3 grid ✔ Turn-based gameplay ✔ Automatic win/draw detection ✔ Clean UI",
+      technologies: ["HTML", "CSS", "JS"],
+      github: "https://github.com/20anuragsingh/tictactoe.gethub.io",
       live: "https://your-taskmanager-demo.com"
     },
     {
-      title: "Weather Dashboard",
-      description: "A responsive weather application that displays current weather conditions and forecasts using multiple weather APIs.",
-      technologies: ["JavaScript", "HTML/CSS", "OpenWeather API", "Chart.js"],
+      title: "simple Learning App using only HTML, CSS, and JavaScript — no frameworks, just the basic",
+      description: "This project helped me practice: 💡 Responsive design 💡 DOM manipulation 💡 Clean and simple UI/UX",
+      technologies: ["JavaScript", "HTML/CSS"],
       github: "https://github.com/yourusername/weather-dashboard",
       live: "https://your-weather-app.com"
     },
@@ -27,38 +27,17 @@ const Projects = () => {
       title: "Portfolio Website",
       description: "A personal portfolio website showcasing projects, skills, and experience. Built with modern web technologies and responsive design.",
       technologies: ["React", "CSS3", "JavaScript", "Responsive Design"],
-      github: "https://github.com/yourusername/portfolio",
+      github: "https://github.com/20anuragsingh/portfolio",
       live: "https://your-portfolio.com"
     }
   ];
 
   const otherProjects = [
     {
-      title: "Data Analysis Dashboard",
-      description: "A Python-based data visualization dashboard for analyzing sales data and generating insights using pandas, matplotlib, and streamlit.",
-      technologies: ["Python", "Pandas", "Matplotlib", "Streamlit", "Jupyter"],
+      title: "Comming soon..",
+      description: "....",
+      technologies: ["...."],
       github: "https://github.com/yourusername/data-dashboard",
-      live: null
-    },
-    {
-      title: "Mobile App - Fitness Tracker",
-      description: "A React Native mobile application for tracking workouts, monitoring progress, and setting fitness goals.",
-      technologies: ["React Native", "Expo", "AsyncStorage", "React Navigation"],
-      github: "https://github.com/yourusername/fitness-tracker",
-      live: null
-    },
-    {
-      title: "Machine Learning Model",
-      description: "A machine learning project for predicting customer churn using various classification algorithms and feature engineering techniques.",
-      technologies: ["Python", "Scikit-learn", "Pandas", "Jupyter Notebook"],
-      github: "https://github.com/yourusername/ml-churn-prediction",
-      live: null
-    },
-    {
-      title: "IoT Home Automation",
-      description: "An IoT project for home automation using Raspberry Pi, sensors, and a web interface for controlling smart devices.",
-      technologies: ["Python", "Raspberry Pi", "MQTT", "HTML/CSS", "JavaScript"],
-      github: "https://github.com/yourusername/iot-home-automation",
       live: null
     }
   ];

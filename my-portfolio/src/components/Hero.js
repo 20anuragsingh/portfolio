@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './images/images.png'
+// import logo from './images/images.png'
 const Hero = () => {
   return (
     <section className="hero-section">
@@ -39,7 +39,7 @@ const Hero = () => {
         </div>
         <div className="hero-image">
           <div className="hero-image-placeholder">
-              <img src={logo} alt="Profile Picture" />
+              {/* <img src={logo} alt="Profile Picture" /> */}
             <span>Your Photo</span>
           </div>
         </div>

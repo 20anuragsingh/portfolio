@@ -78,7 +78,7 @@ const Navbar = () => {
               setIsMobileMenuOpen(false);
             }}
           >
-            Download CV
+            Download Resume
           </button>
         </div>
 

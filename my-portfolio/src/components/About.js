@@ -45,12 +45,12 @@ const About = () => {
             </div>
             <div className="education-item">
               <h4>Senior Secondary Education (Class XII)</h4>
-              <p className="institution">SVM public school, Maniram Gorakhpur</p>
+              <p className="institution">UP Board</p>
               <p className="year">2024</p>
             </div>
             <div className="education-item">
               <h4>Secondary Education (Class X)</h4>
-              <p className="institution">Guru gorakhnath vidyapeeth, Pipiganj, Gorakhpur</p>
+              <p className="institution">UP Board</p>
               <p className="year">2022</p>
             </div>
             {/* Add more education items as needed */}

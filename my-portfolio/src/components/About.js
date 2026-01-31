@@ -9,7 +9,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-               I am a Electrical and Computer Engineering student at ABES Engineering Collage, Ghaziabad, with strong foundations in Web development and DSA and hands-on experience in Backend in Node.js. I enjoy building scalable, user-focused applications using modern technologies.
+               I am a Computer science student at ABES Engineering Collage, Ghaziabad, with strong foundations in Web development and DSA and hands-on experience in Backend in Node.js. I enjoy building scalable, user-focused applications using modern technologies.
             </p>
             <p>
               When I'm not coding, you can find me experimenting with digital photography, or exploring new places. I'm always

@@ -37,7 +37,7 @@ const Projects = () => {
       title: "Comming soon..",
       description: "....",
       technologies: ["...."],
-      github: "https://github.com/yourusername/data-dashboard",
+      github: "https://github.com/20anuragsingh/data-dashboard",
       live: null
     }
   ];

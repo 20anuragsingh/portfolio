@@ -30,7 +30,7 @@ const Navbar = () => {
   };
 
   const handleDownload = () => {
-    window.open('https://drive.google.com/file/d/1NMV57F0TiPCW5qduY9aNqVecwtDalHPN/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/10f-UmbhGyfqIo6MnEiOxPEUN5NCudjQZ/view?usp=sharing', '_blank');
   };
 
   return (

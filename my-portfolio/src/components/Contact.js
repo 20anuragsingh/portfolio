@@ -12,20 +12,20 @@ const Contact = () => {
             <div className="contact-details">
               <div className="contact-item">
                 <h4>Email</h4>
-                <p>amanumrao28@gamil.com</p>
+                <p>anurag_singh20@outlook.com</p>
               </div>
 
               <div className="contact-item">
                 <h4>Location</h4>
-                <p>Ghaziabad, Uttar pradesh, India</p>
+                <p>Gorakhpur, Uttar pradesh, India</p>
               </div>
             </div>
 
             <div className="social-links">
-              <a href="https://github.com/amanumrao28-png" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://github.com/20anuragsingh" target="_blank" rel="noopener noreferrer" className="social-link">
                 GitHub
               </a>
-              <a href="https://linkedin.com/in/umrao-22087b380" target="_blank" rel="noopener noreferrer" className="social-link">
+              <a href="https://linkedin.com/in/singh_anurag1" target="_blank" rel="noopener noreferrer" className="social-link">
                 LinkedIn
               </a>
             </div>

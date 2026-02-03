@@ -41,7 +41,7 @@ const About = () => {
             <div className="education-item">
               <h4>B.Tech</h4>
               <p className="institution">ABES Engineering Collage</p>
-              <p className="year">2024-2028</p>
+              <p className="year">2025-2029</p>
             </div>
             <div className="education-item">
               <h4>Senior Secondary Education (Class XII)</h4>

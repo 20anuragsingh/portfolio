@@ -9,7 +9,7 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-               I am a Computer science student at ABES Engineering Collage, Ghaziabad, with strong foundations in Web development and DSA and hands-on experience in Backend in Node.js. I enjoy building scalable, user-focused applications using modern technologies.
+               I am a Electrical and Computer Engineering student at ABES Engineering Collage, Ghaziabad, with strong foundations in Web development and DSA and hands-on experience in Backend in Node.js. I enjoy building scalable, user-focused applications using modern technologies.
             </p>
             <p>
               When I'm not coding, you can find me experimenting with digital photography, or exploring new places. I'm always
@@ -45,12 +45,12 @@ const About = () => {
             </div>
             <div className="education-item">
               <h4>Senior Secondary Education (Class XII)</h4>
-              <p className="institution">UP Board</p>
+              <p className="institution">SVM Public school</p>
               <p className="year">2024</p>
             </div>
             <div className="education-item">
               <h4>Secondary Education (Class X)</h4>
-              <p className="institution">UP Board</p>
+              <p className="institution">Guru Gorakhnath vidyapeeth</p>
               <p className="year">2022</p>
             </div>
             {/* Add more education items as needed */}
